@@ -21,6 +21,14 @@
   :hnuid "chrismorgan"
   :bio "Software developer, dealing mostly with web things.")
 
+ (:name "Gavin D. Howard"
+  :site "https://gavinhoward.com/"
+  :blog "https://gavinhoward.com/"
+  :feed "https://gavinhoward.com/index.xml"
+  :about "https://gavinhoward.com/about/"
+  :hnuid "gavinhoward"
+  :bio "Recovering C programmer with many interests.")
+
  (:name "Jeff Geerling"
   :site "https://www.jeffgeerling.com/"
   :feed "https://www.jeffgeerling.com/blog.xml"
