@@ -7,6 +7,14 @@
   :hnuid "xorvoid"
   :bio "Writes abot low-level programming and mathematics")
 
+ (:name "Chris Morgan"
+  :site "https://chrismorgan.info/"
+  :feed "https://chrismorgan.info/feed.xml"
+  :about "https://chrismorgan.info/about/"
+  :blog "https://chrismorgan.info/blog/"
+  :hnuid "chrismorgan"
+  :bio "Software developer, dealing mostly with web things")
+
  (:name "Jeff Geerling"
   :site "https://www.jeffgeerling.com/"
   :feed "https://www.jeffgeerling.com/blog.xml"
@@ -63,13 +71,13 @@
   :hnuid "xena"
   :bio "Creator of Anubis.  Technical educator, conference speaker and Twitch streamer.")
 
- (:name "Author Name (first name and last name)"
-  :site "https://example.com/"
-  :feed "https://example.com/feed.xml"
-  :about "https://example.com/about/"
-  :blog "https://example.com/blog/ (Only if your blog URL is not the same as the site URL.)"
-  :now "https://example.com/now/"
-  :hnuid "example (user ID on HN)"
-  :bio "A brief third-person description of yourself, not exceeding 80 characters.")
+ (:name ""
+  :site ""
+  :feed ""
+  :about ""
+  :blog ""
+  :now ""
+  :hnuid ""
+  :bio "")
 
  (:end))
