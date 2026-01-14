@@ -145,6 +145,15 @@
   :hnuid "xena"
   :bio "Creator of Anubis.  Technical educator, conference speaker and Twitch streamer.")
 
+ (:name "Aditya Athalye"
+  :site "https://www.evalapply.org/"
+  :blog "https://www.evalapply.org/posts/index.html#main"
+  :feed "https://www.evalapply.org/index.xml"
+  :about "https://www.evalapply.org/about.html#main"
+  :now "https://www.evalapply.org/now.html#main"
+  :hnuid "adityaathalye"
+  :bio "Your next-door bitemporal DB-curious, indie SaaS making, Clojure, SQLite, Bash/Babashka enjoyer, explainer, and conference speaker.")
+
  (:name ""
   :site ""
   :blog ""
