@@ -58,6 +58,13 @@
   :hnuid "nchagnet"
   :bio "Writes about physics, technology and data science.")
 
+ (:name "Phil Booth"
+  :site "https://philbooth.me/"
+  :blog "https://philbooth.me/blog"
+  :feed "https://philbooth.me/blog/atom.xml"
+  :hnuid "philbo"
+  :bio "Progressive working class software engineer and dog person.")
+
  (:name "Sam Broner"
   :site "https://sambroner.com/"
   :feed "https://sambroner.com/rss.xml"
