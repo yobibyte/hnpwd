@@ -200,6 +200,14 @@
   :hnuid "zahlman"
   :bio "Tools developer and Python educator.")
 
+ (:name "Kevin Dangoor"
+  :site "https://kevindangoor.com/"
+  :blog "https://www.kevindangoor.com/posts/"
+  :feed "https://www.kevindangoor.com/index.xml"
+  :about "https://www.kevindangoor.com/about"
+  :hnuid "dangoor"
+  :bio "Staff Eng at GitHub. Founder of CommonJS and TurboGears. Author.")
+ 
  (:name "Kevin Scott Dias"
   :site "https://www.kevinsdias.com/"
   :blog "https://www.kevinsdias.com/writing.html"
