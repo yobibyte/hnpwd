@@ -197,6 +197,12 @@
   :feed "https://xeiaso.net/blog.rss"
   :hnuid "xena"
   :bio "Creator of Anubis.  Technical educator, conference speaker and Twitch streamer.")
+ 
+(:name "Dennis Silin"
+  :site "https://marscalendar.space"
+  :about "https://marscalendar.space/about.html"
+  :hnuid "d_silin"
+  :bio "Space researcher and software developer")
 
  (:name ""
   :site ""
