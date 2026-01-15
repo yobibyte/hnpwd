@@ -22,6 +22,14 @@
   :hnuid "xorvoid"
   :bio "Writes about low-level programming and mathematics.")
 
+ (:name "Bruno Croci"
+  :site "https://crocidb.com/"
+  :feed "https://crocidb.com/index.xml"
+  :about "https://crocidb.com/about/"
+  :now "https://crocidb.com/now/"
+  :hnuid "CrociDB"
+  :bio "Programmer, gamedev and artist who writes about his projects and experiments.")
+
  (:name "Captain's Quarters"
   :site "https://quarters.captaintouch.com/"
   :feed "https://quarters.captaintouch.com/blog/posts.xml"
