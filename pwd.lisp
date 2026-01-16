@@ -366,6 +366,13 @@
   :hnuid "afreeorange"
   :bio "Former fullstack engineer.  Biomedical informatics grad student in NYC.")
 
+ (:name "Omar Bahareth"
+  :site "https://omar.engineer/"
+  :blog "https://omar.engineer/articles"
+  :about "https://omar.engineer/bio"
+  :hnuid "obahareth"
+  :bio "CTO. Writes about engineering, leadership, and personal experiences.")
+
  (:name "Peter Bengtsson"
   :site "https://www.peterbe.com/"
   :feed "https://www.peterbe.com/rss.xml"
