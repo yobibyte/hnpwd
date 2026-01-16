@@ -458,13 +458,20 @@
   :feed "https://willabides.com/index.xml"
   :hnuid "WillAbides"
   :bio "A gopher who occasionally writes about Go.")
-
+ 
  (:name "Xe Iaso"
   :site "https://xeiaso.net/"
   :blog "https://xeiaso.net/blog/"
   :feed "https://xeiaso.net/blog.rss"
   :hnuid "xena"
   :bio "Creator of Anubis.  Technical educator, conference speaker and Twitch streamer.")
+
+ (:name "Yash Mehrotra"
+  :site "https://yashmehrotra.com"
+  :blog "https://yashmehrotra.com/posts"
+  :feed "https://yashmehrotra.com/index.xml"
+  :hnuid "yashmehrotra"
+  :bio "Backend and infra engineer. Author of hugo-gokarna. Writes about tech and linux.")
 
  ;; You may copy the following entry to add one for your website.
  ;; Insert your entry at an appropriate place above so that the
