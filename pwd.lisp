@@ -176,12 +176,12 @@
   :bio "Writes fixes for technical and social pains common to all devs.")
 
  (:name "Dror Nir"
-  :site "https://drornir.dev"
-  :blog "https://drornir.dev/blog"
+  :site "https://drornir.dev/"
+  :blog "https://drornir.dev/blog/"
   :feed "https://drornir.dev/rss.xml"
   :hnuid "drorn"
-  :bio "Dev and Ops on the cloud, sharing mainly techincal knowledge.")
- 
+  :bio "Dev and Ops on the cloud.  Sharing mainly techincal knowledge.")
+
  (:name "Dustin Brett"
   :site "https://dustinbrett.com/"
   :feed "https://dustinbrett.com/rss.xml"
