@@ -116,9 +116,10 @@
 
  (:name "Cassidy Williams"
   :site "https://cassidoo.co/"
+  :blog "https://cassidoo.co/blog"
   :feed "https://cassidoo.co/rss.xml"
   :hnuid "cassidoo"
-  :bio "Developer advocate, educator, advisor, software engineer, and memer.")
+  :bio "Developer advocate, advisor, software engineer and memer.  Writes a weekly newsletter for devs.")
 
  (:name "Charles Wang"
   :site "https://charleszw.com/"
