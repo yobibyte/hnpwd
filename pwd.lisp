@@ -327,7 +327,7 @@
   :about "https://blog.leiw.ai/about/"
   :now "https://blog.leiw.ai/now/"
   :hnuid "tendant"
-  :bio "Builder working on AI-native financial systems, infrastructure, and software.")
+  :bio "Builder working on AI-native financial systems, infrastructure and software.")
 
  (:name "Lorenzo Gravina"
   :site "https://lorenzogravina.com/"
