@@ -3,10 +3,10 @@
   <head>
     <title>HN Personal Websites</title>
     <dateCreated>Wed, 14 Jan 2026 00:00:00 UTC</dateCreated>
-    <dateModified>Sat, 17 Jan 2026 01:17:29 UTC</dateModified>
+    <dateModified>Sat, 17 Jan 2026 01:23:57 UTC</dateModified>
   </head>
   <body>
-    <!-- 68 entries -->
+    <!-- 69 entries -->
     <outline text="HN Personal Websites" title="HN Personal Websites">
       <outline type="rss" text="Abigail Pain" title="Abigail Pain" xmlUrl="https://www.akpain.net/blog/feed.atom" htmlUrl="https://www.akpain.net/"/>
       <outline type="rss" text="Aditya Athalye" title="Aditya Athalye" xmlUrl="https://www.evalapply.org/index.xml" htmlUrl="https://www.evalapply.org/"/>
@@ -69,6 +69,7 @@
       <outline type="rss" text="Sean Goedecke" title="Sean Goedecke" xmlUrl="https://www.seangoedecke.com/rss.xml" htmlUrl="https://www.seangoedecke.com/"/>
       <outline type="rss" text="Silvestar Bistrović" title="Silvestar Bistrović" xmlUrl="https://www.silvestar.codes/rss.xml" htmlUrl="https://www.silvestar.codes/"/>
       <outline type="rss" text="Simon Willison" title="Simon Willison" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="https://simonwillison.net/"/>
+      <outline type="rss" text="Stefan Judis" title="Stefan Judis" xmlUrl="https://www.stefanjudis.com/rss.xml" htmlUrl="https://www.stefanjudis.com/"/>
       <outline type="rss" text="Suriya Ganesh Ayyamperumal" title="Suriya Ganesh Ayyamperumal" xmlUrl="https://suriya.cc/index.xml" htmlUrl="https://suriya.cc/"/>
       <outline type="rss" text="Susam Pal" title="Susam Pal" xmlUrl="https://susam.net/feed.xml" htmlUrl="https://susam.net/"/>
       <outline type="rss" text="Tony Alicea" title="Tony Alicea" xmlUrl="https://tonyalicea.dev/feed/feed.xml" htmlUrl="https://tonyalicea.dev/"/>
