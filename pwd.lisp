@@ -396,7 +396,7 @@
  (:name "Peter Demin"
   :site "https://peter.demin.dev/"
   :blog "https://peter.demin.dev/life.html"
-  :feed "https://peter.demin.dev/life..xml"
+  :feed "https://peter.demin.dev/life.xml"
   :hnuid "peterdemin"
   :bio "Writes about Python, vim, git, self-hosting and software engineering in general.")
 
