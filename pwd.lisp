@@ -120,6 +120,13 @@
   :hnuid "capitain"
   :bio "Palm-OS game dev.  Ramblings about retro-tech and other nostalgia.")
 
+ (:name "Cassidy Williams"
+  :site "https://cassidoo.co/"
+  :blog "https://cassidoo.co/blog"
+  :feed "https://cassidoo.co/rss.xml"
+  :hnuid "cassidoo"
+  :bio "Dev advocate, advisor, engineer and memer.  Writes a weekly newsletter for devs.")
+
  (:name "Charles Wang"
   :site "https://charleszw.com/"
   :blog "https://charleszw.com/posts"
