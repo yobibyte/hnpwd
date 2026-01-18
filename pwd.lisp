@@ -515,6 +515,13 @@
   :hnuid "philip1209"
   :bio "Writes about crafting digital tools.")
 
+ (:name "Pradeep Gowda"
+  :site "https://www.btbytes.com/"
+  :blog "https://maxim.usindic.us/"
+  :feed "https://maxim.usindic.us/feeds/main.xml"
+  :hnuid "btbytes"
+  :bio "Writes primarily about technology, but not limited by it")
+
  (:name "Priyatham Bazaru"
   :site "https://priyatham.in/"
   :blog "https://priyatham.in/en/post/"
