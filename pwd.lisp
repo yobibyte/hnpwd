@@ -65,6 +65,13 @@
   :hnuid "wttr"
   :bio "An IT sales/project manager turned web developer.")
 
+ (:name "Aman Kumar"
+  :site "https://amankumar.ai/"
+  :about "https://amankumar.ai/about"
+  :blog "https://amankumar.ai/blogs"
+  :hnuid "onlyoneaman"
+  :bio "Full-stack AI engineer.  Turns fuzzy ideas into live products quickly.")
+
  (:name "Andrew Montalenti"
   :site "https://amontalenti.com/"
   :feed "https://amontalenti.com/feed"
@@ -216,6 +223,7 @@
   :hnuid "DustinBrett"
   :bio "Self-taught software engineer, traveler, father and husband.")
 
+
  (:name "Ed Thomas"
   :site "https://ed-thomas.dev/"
   :blog "https://ed-thomas.dev/blog/"
@@ -223,6 +231,14 @@
   :now "https://ed-thomas.dev/now/"
   :hnuid "pixel87"
   :bio "Comp Sci student, making things.")
+
+ (:name "Emma Goto"
+  :site "https://www.emgoto.com/"
+  :feed "https://www.emgoto.com/rss.xml"
+  :about "https://www.emgoto.com/about/"
+  :now "https://www.emgoto.com/now/"
+  :hnuid "emgoto"
+  :bio "Software engineer living in Tokyo.  Writes about hiking, books and code.")
 
  (:name "Gavin D. Howard"
   :site "https://gavinhoward.com/"
@@ -237,6 +253,13 @@
   :about "https://ianreppel.org/about"
   :hnuid "i7l"
   :bio "Writes about machine learning, quantum computing and product management.")
+
+ (:name "Ibrahim Diallo"
+  :site "https://idiallo.com/"
+  :feed "https://idiallo.com/feed.rss"
+  :about "https://idiallo.com/aboutme.html"
+  :hnuid "firefoxd"
+  :bio "Software engineer.  Writes about programming and tells workplace stories.")
 
  (:name "Ivar Abrahamsen"
   :site "https://flurdy.com/"
@@ -272,6 +295,12 @@
   :feed "https://blog.jgc.org/feeds/posts/default"
   :hnuid "jgc"
   :bio "Original writer of POPFile.  Member of the board of directors at Cloudflare.")
+
+ (:name "John Lampard"
+  :site "https://disassociated.com/"
+  :feed "https://disassociated.com/feed/"
+  :about "https://disassociated.com/about/"
+  :bio "Former web designer turned writer and blogger, based in Australia.")
 
  (:name "John Zanussi"
   :site "https://johnzanussi.com/"
@@ -410,6 +439,13 @@
   :hnuid "xnacly"
   :bio "Writes about compilers and hardware.  Contributes to open source software.")
 
+(:name "Matthew Brunelle"
+  :site "https://blog.matthewbrunelle.com/"
+  :feed "https://blog.matthewbrunelle.com/rss/"
+  :about "https://blog.matthewbrunelle.com/about/"
+  :hnuid "ciferkey"
+  :bio "Writes about projects events and ideas, sharing lessons learnt with others.")
+
  (:name "Mike Cardwell"
   :site "https://www.grepular.com/"
   :blog "https://www.grepular.com/blog/"
@@ -428,6 +464,13 @@
   :feed "https://www.mikekasberg.com/feed.xml"
   :hnuid "mkasberg"
   :bio "Husband.  Father.  Software engineer.  Ubuntu Linux user.")
+
+ (:name "Nabraj"
+  :site "https://nabraj.com/"
+  :blog "https://nabraj.com/blog"
+  :feed "https://nabraj.com/rss.xml"
+  :hnuid "coffeecoders"
+  :bio "Full-stack engineer, now focused on breadboards and building robots.")
 
  (:name "Neil Kakkar"
   :site "https://neilkakkar.com/"
@@ -522,6 +565,13 @@
   :hnuid "btbytes"
   :bio "Writes primarily about technology, but not limited by it")
 
+ (:name "Preet Shah"
+  :site "https://shahpreetk.com/"
+  :blog "https://shahpreetk.com/blog"
+  :feed "https://shahpreetk.com/blog/rss.xml"
+  :about "https://shahpreetk.com/portfolio/about-me"
+  :bio "Self-taught developer, ardent kitty lover and a painter.")
+
  (:name "Priyatham Bazaru"
   :site "https://priyatham.in/"
   :blog "https://priyatham.in/en/post/"
@@ -605,7 +655,7 @@
   :feed "https://www.stefanjudis.com/rss.xml"
   :about "https://www.stefanjudis.com/about/"
   :hnuid "stefanjudis"
-  :bio "Frontend developer, web educator and blogger.")
+  :bio "Front-end developer, web educator and blogger.")
 
  (:name "Steven DeGraeve"
   :site "https://www.degraeve.com/"
@@ -659,6 +709,13 @@
   :feed "https://torrin.me/blog"
   :hnuid "torrinleonard"
   :bio "Founder and developer.  Builds AI-powered web apps and custom UI frameworks.")
+
+ (:name "Utkarsh Tiwari"
+  :site "https://utk09.com/"
+  :blog "https://utk09.com/blogs"
+  :feed "https://utk09.com/blogs/rss.xml"
+  :hnuid "utk09"
+  :bio "Front-end developer and avid reader of murder mystery novels.")
 
  (:name "Vermaden"
   :site "https://vermaden.wordpress.com/"
