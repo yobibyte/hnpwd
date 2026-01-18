@@ -867,6 +867,13 @@
   :hnuid "yashmehrotra"
   :bio "Backend and infrastructure engineer.  Author of Hugo Gokarna theme.")
 
+(:name "Zac Bentley"
+  :site "https://blog.zacbentley.com/"
+  :about "https://blog.zacbentley.com/about/"
+  :feed "https://blog.zacbentley.com/index.xml"
+  :hnuid "zbentley"
+  :bio "Software engineer and architect.  Writes architecture advice and essays about decision-making, code, PLT and more.")
+
  ;; You may copy the following entry to add one for your website.
  ;; Insert your entry at an appropriate place above so that the
  ;; entries remain sorted alphabetically by name.  Delete any
