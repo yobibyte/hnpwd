@@ -647,6 +647,12 @@
   :hnuid "TonyAlicea10"
   :bio "Udemy and Pluralsight author, conference speaker.  Writes about AI, dev and UX.")
 
+ (:name "Torrin Leonard"
+  :site "https://torrin.me/"
+  :feed "https://torrin.me/blog"
+  :hnuid "torrinleonard"
+  :bio "Founder and developer.  Builds AI-powered web apps and custom UI frameworks.")
+
  (:name "Vermaden"
   :site "https://vermaden.wordpress.com/"
   :feed "https://vermaden.wordpress.com/feed/"
