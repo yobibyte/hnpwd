@@ -556,9 +556,9 @@
 
  (:name "Nemanja Ninković"
   :site "https://ninkovic.dev/"
-  :blog "https://ninkovic.dev/blog/"
+  :blog "https://ninkovic.dev/blog"
   :feed "https://ninkovic.dev/rss.xml"
-  :about "https://ninkovic.dev/contact/"
+  :about "https://ninkovic.dev/contact"
   :hnuid "nemwiz"
   :bio "Writes about practical implementation of AI.  Leads engineering teams.")
 
