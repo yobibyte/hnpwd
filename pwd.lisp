@@ -424,7 +424,7 @@
   :blog "https://makc.co/essays/"
   :feed "https://makc.co/feed.xml"
   :hnuid "makc"
-  :bio "Writes about tech and other things.  Sometimes publishes free stuff.")
+  :bio "Writes about technology and other things.  Sometimes publishes free stuff.")
 
  (:name "Marijan Smetko"
   :site "https://terra-incognita.blog/"
