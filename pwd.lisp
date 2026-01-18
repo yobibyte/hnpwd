@@ -1,7 +1,9 @@
 ;;;; HN Personal Websites Directory
 ;;;; ==============================
 
-((:name "Abigail Pain"
+((:begin)
+
+ (:name "Abigail Pain"
   :site "https://www.akpain.net/"
   :blog "https://www.akpain.net/blog/"
   :feed "https://www.akpain.net/blog/feed.atom"

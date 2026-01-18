@@ -22,7 +22,8 @@
   "Read website entries from the data file."
   (remove-if
    (lambda (item)
-     (or (equal item '(:end))
+     (or (equal item '(:begin))
+         (equal item '(:end))
          (string= (getf item :site) "")))
    (read-list filename)))
 
