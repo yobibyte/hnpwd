@@ -742,6 +742,13 @@
   :hnuid "sebasv_"
   :bio "Data scientist and open source contributor.  Writes about solving problems.")
 
+  (:name "Sharmila Gopirajan"
+  :site "https://www.minvolai.com/"
+  :blog "https://www.minvolai.com/blog"
+  :feed "https://www.minvolai.com/rss.xml"
+  :hnuid "sharmi"
+  :bio "Software engineer, turned entrepreneur. Writes about daily problem solves, experiences.")
+ 
  (:name "Silvestar Bistrović"
   :site "https://www.silvestar.codes/"
   :blog "https://www.silvestar.codes/articles/"
