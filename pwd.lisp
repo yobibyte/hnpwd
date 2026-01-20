@@ -238,7 +238,7 @@
   :feed "https://blog.winricklabs.com/rss.xml"
   :about "https://blog.winricklabs.com/(5-5-2019)-about-this.html"
   :hnuid "winrid"
-  :bio "Writes software, plays with cars in the dirt and optimizes databases.")
+  :bio "Writes software, plays with cars in the dirt and optimises databases.")
 
  (:name "Dmitrij Loktev"
   :site "https://potomushto.com/"
@@ -299,7 +299,6 @@
  (:name "Facundo Olano"
   :site "https://olano.dev/"
   :feed "https://olano.dev/feed.xml"
-  :about "https://olano.dev/#about"
   :hnuid "facundo_olano"
   :bio "Software engineer from Argentina.  Writes about code, books, games and movies.")
 
@@ -721,7 +720,7 @@
   :feed "https://www.rasikjain.com/index.xml"
   :about "https://www.rasikjain.com/about/"
   :hnuid "rasikjain"
-  :bio "Software engineer specializing in AI and ML.  Building secure, scalable apps.")
+  :bio "Software engineer specialising in AI and ML.  Building secure, scalable apps.")
 
  (:name "Rhys Johns"
   :site "https://spikepuppet.io/"
