@@ -654,6 +654,13 @@
   :hnuid "mshockwave"
   :bio "Compiler engineer.  LLVM contributor.")
 
+ (:name "Mohamed Akram"
+  :site "https://akr.am/"
+  :blog "https://akr.am/blog/"
+  :feed "https://akr.am/blog/feed.xml"
+  :hnuid "thefilmore"
+  :bio "Full stack engineer interested in IoT and financial industries.")
+
  (:name "Nabraj"
   :site "https://nabraj.com/"
   :blog "https://nabraj.com/blog"
