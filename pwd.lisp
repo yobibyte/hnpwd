@@ -905,6 +905,12 @@
   :hnuid "stefanjudis"
   :bio "Front-end developer, web educator and blogger.")
 
+ (:name "Stephen Bateman"
+  :site "https://iambateman.com/"
+  :blog "https://iambateman.com/articles"
+  :hnuid "iambateman"
+  :bio "Laravel Livewire developer.")
+
  (:name "Steven DeGraeve"
   :site "https://www.degraeve.com/"
   :blog "https://www.degraeve.com/blog/"
