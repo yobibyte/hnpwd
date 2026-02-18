@@ -860,6 +860,13 @@
   :hnuid "rasikjain"
   :bio "Software engineer specialising in AI and ML.  Building secure, scalable apps.")
 
+ (:name "Redowan Delowar"
+  :site "https://rednafi.com/"
+  :feed "https://rednafi.com/index.xml"
+  :about "https://rednafi.com/about/"
+  :hnuid "rednafi"
+  :bio "Platform engineer writing about Go, Python and systems.")
+
  (:name "Rhys Johns"
   :site "https://spikepuppet.io/"
   :feed "https://spikepuppet.io/rss.xml"
