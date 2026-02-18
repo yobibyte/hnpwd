@@ -614,9 +614,9 @@
  (:name "Martyn"
   :site "https://m0rtyn.cc/"
   :blog "https://blog.m0rtyn.cc/"
-  :about "https://blog.m0rtyn.cc/about"
+  :about "https://blog.m0rtyn.cc/about/"
   :hnuid "m0rtyn"
-  :bio "Blogger, programmer, public speaker, keyboard nerd, creative mind and amateur meditator.")
+  :bio "Blogger, programmer, public speaker, keyboard nerd and amateur meditator.")
 
  (:name "Massimo Redaelli"
   :site "https://italianpoetry.it/"
